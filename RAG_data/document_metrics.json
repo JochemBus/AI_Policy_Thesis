@@ -1,0 +1,110 @@
+[
+    {
+        "Country": "CHL",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Language bias",
+        "Prevalence Score": 19.6767706722,
+        "Mean Similarity Score": 0.2641510665,
+        "Bias Frequency": 282,
+        "Mean BLEU Score": 0.4836420824
+    },
+    {
+        "Country": "DEU",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Industry Sponsorship bias",
+        "Prevalence Score": 8.8118858635,
+        "Mean Similarity Score": 0.2968482077,
+        "Bias Frequency": 100,
+        "Mean BLEU Score": 2.24303365
+    },
+    {
+        "Country": "DNK",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Confirmation bias",
+        "Prevalence Score": 14.5907002687,
+        "Mean Similarity Score": 0.2947022319,
+        "Bias Frequency": 168,
+        "Mean BLEU Score": 2.6077690865
+    },
+    {
+        "Country": "EGY",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Industry Sponsorship bias",
+        "Prevalence Score": 16.4371089861,
+        "Mean Similarity Score": 0.2845540047,
+        "Bias Frequency": 203,
+        "Mean BLEU Score": 2.0382381197
+    },
+    {
+        "Country": "ITA",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Language bias",
+        "Prevalence Score": 4.9789801538,
+        "Mean Similarity Score": 0.2611612678,
+        "Bias Frequency": 73,
+        "Mean BLEU Score": 0.6988184044
+    },
+    {
+        "Country": "MUS",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Industry Sponsorship bias",
+        "Prevalence Score": 12.5528863668,
+        "Mean Similarity Score": 0.2766622305,
+        "Bias Frequency": 164,
+        "Mean BLEU Score": 1.7360469072
+    },
+    {
+        "Country": "UAE",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Industry Sponsorship bias",
+        "Prevalence Score": 8.6305713654,
+        "Mean Similarity Score": 0.2739497125,
+        "Bias Frequency": 115,
+        "Mean BLEU Score": 2.0739063124
+    },
+    {
+        "Country": "USA",
+        "Document nr.": 1,
+        "Most Prevalent Bias": "Industry Sponsorship bias",
+        "Prevalence Score": 9.4733476639,
+        "Mean Similarity Score": 0.2989501655,
+        "Bias Frequency": 106,
+        "Mean BLEU Score": 2.1120362756
+    },
+    {
+        "Country": "USA",
+        "Document nr.": 2,
+        "Most Prevalent Bias": "Confirmation bias",
+        "Prevalence Score": 0.4346622899,
+        "Mean Similarity Score": 0.2948431075,
+        "Bias Frequency": 5,
+        "Mean BLEU Score": 1.2374582985
+    },
+    {
+        "Country": "USA",
+        "Document nr.": 3,
+        "Most Prevalent Bias": "Information bias",
+        "Prevalence Score": 0.5367364287,
+        "Mean Similarity Score": 0.5180426836,
+        "Bias Frequency": 2,
+        "Mean BLEU Score": 2.2016138625
+    },
+    {
+        "Country": "USA",
+        "Document nr.": 4,
+        "Most Prevalent Bias": "Industry Sponsorship bias",
+        "Prevalence Score": 18.5866814554,
+        "Mean Similarity Score": 0.3397723138,
+        "Bias Frequency": 161,
+        "Mean BLEU Score": 1.899142544
+    },
+    {
+        "Country": "USA",
+        "Document nr.": 5,
+        "Most Prevalent Bias": "Reporting biases",
+        "Prevalence Score": 3.0385300517,
+        "Mean Similarity Score": 0.3486275971,
+        "Bias Frequency": 25,
+        "Mean BLEU Score": 1.2173349416
+    }
+]

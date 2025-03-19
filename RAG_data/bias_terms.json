@@ -1,0 +1,262 @@
+[
+    {
+        "Bias_Type": "Adherence bias",
+        "Description": "A systematic distortion in outcome data that arises when participants who adhere to a study protocol or intervention differ from those who do not adhere, when that difference relates to the outcome of interest."
+    },
+    {
+        "Bias_Type": "Admission rate bias",
+        "Description": "Arises when the variables under study are affected by the selection of hospitalized subjects leading to a bias between the exposure and the\u00a0disease under study."
+    },
+    {
+        "Bias_Type": "All\u2019s well literature bias",
+        "Description": "Occurs when publications omit or play down controversies or disparate results."
+    },
+    {
+        "Bias_Type": "Allocation bias",
+        "Description": "Systematic difference in how participants are assigned to comparison groups in a clinical trial."
+    },
+    {
+        "Bias_Type": "Apprehension bias",
+        "Description": "When a study participant responds differently due to being observed"
+    },
+    {
+        "Bias_Type": "Ascertainment bias",
+        "Description": "Systematic differences in the identification of individuals included in a study or distortion in the collection of data in a study."
+    },
+    {
+        "Bias_Type": "Attrition bias",
+        "Description": "Unequal loss of participants from study groups in a trial."
+    },
+    {
+        "Bias_Type": "Availability bias",
+        "Description": "A distortion that arises from the use of information which is most readily available, rather than that which is necessarily most representative."
+    },
+    {
+        "Bias_Type": "Biases of rhetoric",
+        "Description": "An argument used to persuade the reader without appealing to reason or evidence."
+    },
+    {
+        "Bias_Type": "Centripetal bias",
+        "Description": "The reputations of certain clinicians and institutions cause individuals with specific disorders or exposures to gravitate toward them."
+    },
+    {
+        "Bias_Type": "Chronological bias",
+        "Description": "When study participants allocated earlier to an intervention or a group are subject to different exposures or are at a different risk from participants who are recruited later."
+    },
+    {
+        "Bias_Type": "Collider bias",
+        "Description": "A distortion that modifies an association between an exposure and outcome, caused by attempts to control for a common effect of the exposure and outcome"
+    },
+    {
+        "Bias_Type": "Compliance bias",
+        "Description": "Participants compliant with an intervention differ in some way from those not compliant which can systematically affect the outcome of interest."
+    },
+    {
+        "Bias_Type": "Confirmation bias",
+        "Description": "The search for and use of information to support an individual\u2019s ideas, beliefs or hypotheses."
+    },
+    {
+        "Bias_Type": "Confounding",
+        "Description": "A distortion that modifies an association between an exposure and an outcome\u00a0because a factor is independently associated with the exposure and the outcome."
+    },
+    {
+        "Bias_Type": "Confounding by indication",
+        "Description": "A distortion that modifies an association between an exposure and an outcome, caused by the presence of an indication for the exposure that is the true cause of the outcome."
+    },
+    {
+        "Bias_Type": "Data-dredging bias",
+        "Description": "A distortion that arises from presenting the results of unplanned statistical tests as if they were a fully prespecified course of analyses."
+    },
+    {
+        "Bias_Type": "Detection bias",
+        "Description": "Systematic differences between groups in how outcomes are determined."
+    },
+    {
+        "Bias_Type": "Diagnostic access bias",
+        "Description": "Individuals differ in their geographic, temporal and economic access to diagnostic procedures which label them as having a given disease."
+    },
+    {
+        "Bias_Type": "Diagnostic suspicion bias",
+        "Description": "Knowledge of a subject\u2019s prior exposures or personal biases may influence both the process and the outcome of diagnostic tests."
+    },
+    {
+        "Bias_Type": "Differential Reference bias",
+        "Description": "When not all participants receive the same reference test in a diagnostic accuracy study."
+    },
+    {
+        "Bias_Type": "Hawthorne effect",
+        "Description": "When individuals modify an aspect of their behaviour in response to their awareness of being observed."
+    },
+    {
+        "Bias_Type": "Hot stuff bias",
+        "Description": "When a topic is fashionable (\u2018hot\u2019)\u00a0 investigators may be less critical in their approach to their research, and investigators and editors may not be able to resist the temptation to publish the results."
+    },
+    {
+        "Bias_Type": "Hypothetical bias",
+        "Description": "A distortion that arises when an individual\u2019s stated behaviour or valuation differs to that of their real behaviour or valuation."
+    },
+    {
+        "Bias_Type": "Immortal time bias",
+        "Description": "A distortion that modifies an association between an exposure and an outcome, caused when a cohort study is designed so that follow-up includes a period of time where participants in the exposed group cannot experience the outcome and are essentially \u2018immortal\u2019."
+    },
+    {
+        "Bias_Type": "Incorporation bias",
+        "Description": "When the results of an index test form part of the reference test in a diagnostic study."
+    },
+    {
+        "Bias_Type": "Industry Sponsorship bias",
+        "Description": "A tendency for the methods and results of a study to support the interests of the funding organisation."
+    },
+    {
+        "Bias_Type": "Information bias",
+        "Description": "Bias that arises from systematic differences in the collection, recall, recording or handling of information used in a study."
+    },
+    {
+        "Bias_Type": "Informed presence bias",
+        "Description": "The presence of a person\u2019s information in an electronic health record is affected by the person\u2019s health status."
+    },
+    {
+        "Bias_Type": "Insensitive measure bias",
+        "Description": "The use of an insufficiently accurate method to detect the outcome of interest, such that clinically important differences are not detected."
+    },
+    {
+        "Bias_Type": "Lack of blinding",
+        "Description": "The lack of concealment of an intervention or control treatment received by participants in a clinical trial."
+    },
+    {
+        "Bias_Type": "Language bias",
+        "Description": "Publication of research findings in a particular language."
+    },
+    {
+        "Bias_Type": "Lead time bias",
+        "Description": "A distortion overestimating the apparent time surviving with a disease caused by bringing forward the time of its diagnosis"
+    },
+    {
+        "Bias_Type": "Mimicry bias",
+        "Description": "An innocent exposure may become suspicious if, rather than causing disease, it causes a benign disorder which resembles the disease."
+    },
+    {
+        "Bias_Type": "Misclassification bias",
+        "Description": "Occurs when a study participant is categorised into an incorrect category altering the observed association or research outcome of interest."
+    },
+    {
+        "Bias_Type": "Non-contemporaneous control bias",
+        "Description": "Differences in the timing of selection of case and controls within in a study influence exposures and outcomes resulting in biased estimates."
+    },
+    {
+        "Bias_Type": "Non-response bias",
+        "Description": "A bias that occurs due to systematic differences between responders and non-responders"
+    },
+    {
+        "Bias_Type": "Novelty bias",
+        "Description": "The tendency for an intervention to appear better when it is new."
+    },
+    {
+        "Bias_Type": "Observer bias",
+        "Description": "The process of observing and recording information which includes systematic discrepancies from the truth."
+    },
+    {
+        "Bias_Type": "One-sided reference bias",
+        "Description": "When authors restrict their references to only those works that support their position."
+    },
+    {
+        "Bias_Type": "Outcome reporting bias",
+        "Description": "The selective reporting of pre-specified outcomes in published clinical trials."
+    },
+    {
+        "Bias_Type": "Partial reference bias",
+        "Description": "When only a proportion of the study group receive both the index and reference standard test when investigating for diagnostic accuracy."
+    },
+    {
+        "Bias_Type": "Perception bias",
+        "Description": "The tendency to be subjective about people and events, causing biased information to be collected in a study or biased interpretation of a study\u2019s results."
+    },
+    {
+        "Bias_Type": "Performance bias",
+        "Description": "Systematic differences in the care provided to members of different study groups other than the intervention under investigation"
+    },
+    {
+        "Bias_Type": "Popularity bias",
+        "Description": "Differences in the uptake of\u00a0healthcare as a result of a public interest in a disease or condition and its possible causes results in a biased study sample"
+    },
+    {
+        "Bias_Type": "Positive results bias",
+        "Description": "The tendency to submit, accept and publish positive results\u00a0rather than non-significant or negative results."
+    },
+    {
+        "Bias_Type": "Prevalence-incidence (Neyman) bias",
+        "Description": "Exclusion of individuals with severe or mild disease resulting in a\u00a0systematic error in the estimated association or effect of an exposure on an outcome."
+    },
+    {
+        "Bias_Type": "Previous opinion bias",
+        "Description": "The results of a previous assessment, test result\u00a0or diagnosis, if known, may affect the results of subsequent processes on the same patient."
+    },
+    {
+        "Bias_Type": "Publication bias",
+        "Description": "When the likelihood of a study being published is affected by the findings of the study."
+    },
+    {
+        "Bias_Type": "Racial bias",
+        "Description": "A distortion arising from systemic, institutional, interpersonal or individual forms of explicit (conscious) or implicit (unconscious) prejudice against individuals or groups based on social constructs of race or ethnicity that influences the planning, methods, results, interpretation, dissemination and application of health research."
+    },
+    {
+        "Bias_Type": "Recall bias",
+        "Description": "Systematic error due to differences in accuracy or completeness of recall to memory of past events or experiences."
+    },
+    {
+        "Bias_Type": "Referral filter bias",
+        "Description": "Referral of any group of unwell people from primary to secondary to tertiary care, causing an increase in the concentration of rare cases, more complex cases or people with worse outcomes."
+    },
+    {
+        "Bias_Type": "Reporting biases",
+        "Description": "A systematic distortion that arises from the selective disclosure or withholding of information by parties involved in the design, conduct, analysis, or dissemination of a study or research findings"
+    },
+    {
+        "Bias_Type": "Review biases",
+        "Description": "Occurs in diagnostic test accuracy studies when the person interpreting the results of the index test has knowledge of the results of the reference standard (diagnostic review bias), or, the person interpreting the results of the reference standard\u00a0has knowledge of the results of the index test (index review bias). Clinical review bias occurs when relevant clinical and patient information is available to the person interpreting the test or reference result. These are all forms of observer bias."
+    },
+    {
+        "Bias_Type": "Selection bias",
+        "Description": "occurs when individuals or groups in a study differ systematically from the population of interest leading to a systematic error in an association or outcome."
+    },
+    {
+        "Bias_Type": "Spectrum bias",
+        "Description": "Occurs when a diagnostic test is studied in a different range of individuals to the intended population for the test"
+    },
+    {
+        "Bias_Type": "Spin bias",
+        "Description": "The intentional or unintentional distorted interpretation of research results, unjustifiably suggesting favourable or unfavourable findings that can result in misleading conclusions"
+    },
+    {
+        "Bias_Type": "Starting time bias",
+        "Description": "Arises when there is a failure to identify a common starting time for an exposure or a disease."
+    },
+    {
+        "Bias_Type": "Substitution game bias",
+        "Description": "Substitution of the clinically important\u00a0endpoint, or an exposure, with a surrogate marker for the disease."
+    },
+    {
+        "Bias_Type": "Unacceptability bias",
+        "Description": "A systematic difference in response rates or uptake of tests due to their \u201cunacceptability\u201d"
+    },
+    {
+        "Bias_Type": "Unacceptable disease bias",
+        "Description": "Lower rates of reporting of certain \u201cunacceptable\u201d diseases compared with other health conditions."
+    },
+    {
+        "Bias_Type": "Unmasking (detection signal) bias",
+        "Description": "An innocent exposure that, rather than causing a disease, causes a sign or symptom that precipitates a search for the disease."
+    },
+    {
+        "Bias_Type": "Verification bias",
+        "Description": "when only a proportion of the study group receives confirmation of the diagnosis by the reference standard, or if some patients receive a different reference standard at the time of diagnosis."
+    },
+    {
+        "Bias_Type": "Volunteer bias",
+        "Description": "Participants volunteering to take part in a study intrinsically have different characteristics from the general population of interest."
+    },
+    {
+        "Bias_Type": "Wrong sample size bias",
+        "Description": "When the wrong sample size is used in a study: small sample sizes often lead to chance findings, while large sample sizes are often statistically significant but\u00a0not clinically relevant."
+    }
+]
