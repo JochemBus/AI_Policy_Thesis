@@ -1,110 +1,389 @@
 [
     {
+        "Country": "ARG",
+        "Document Name": "Laura",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 19.510558867,
+        "Bias Frequency": 216,
+        "Mean Similarity Score": 0.2999204042,
+        "Mean Normalized TF-IDF": 0.3011687773
+    },
+    {
+        "Country": "ARG",
+        "Document Name": "Prometea",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 61.583109723,
+        "Bias Frequency": 477,
+        "Mean Similarity Score": 0.324759337,
+        "Mean Normalized TF-IDF": 0.3975406928
+    },
+    {
+        "Country": "BRA",
+        "Document Name": "National AI strategy of Brazil",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 26.7152663388,
+        "Bias Frequency": 122,
+        "Mean Similarity Score": 0.3779273613,
+        "Mean Normalized TF-IDF": 0.5794171456
+    },
+    {
+        "Country": "CAN",
+        "Document Name": "Pan-Canadian Artificial Intelligence Strategy",
+        "Most Prevalent Bias": "Immortal time bias",
+        "Prevalence Score": 3.2100370542,
+        "Bias Frequency": 19,
+        "Mean Similarity Score": 0.3121366889,
+        "Mean Normalized TF-IDF": 0.5412670943
+    },
+    {
+        "Country": "CHE",
+        "Document Name": "A legal framework for artificial intelligence",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 4.411337996,
+        "Bias Frequency": 20,
+        "Mean Similarity Score": 0.424251454,
+        "Mean Normalized TF-IDF": 0.5198966267
+    },
+    {
+        "Country": "CHE",
+        "Document Name": "Digital Switzerland Strategy",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 32.8074759341,
+        "Bias Frequency": 387,
+        "Mean Similarity Score": 0.2643398785,
+        "Mean Normalized TF-IDF": 0.3207001535
+    },
+    {
         "Country": "CHL",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Language bias",
-        "Prevalence Score": 19.6767664701,
-        "Mean Similarity Score": 0.2641510367,
-        "Bias Frequency": 282,
-        "Mean BLEU Score": 0.4836420824
+        "Document Name": "documento_politica_ia_digital_",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 25.5493602936,
+        "Bias Frequency": 151,
+        "Mean Similarity Score": 0.3657580911,
+        "Mean Normalized TF-IDF": 0.4626037418
+    },
+    {
+        "Country": "COL",
+        "Document Name": "Emerging Technologies Handboo",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 9.8056769295,
+        "Bias Frequency": 54,
+        "Mean Similarity Score": 0.3662715843,
+        "Mean Normalized TF-IDF": 0.4957703999
     },
     {
         "Country": "DEU",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Industry Sponsorship bias",
-        "Prevalence Score": 8.8118806481,
-        "Mean Similarity Score": 0.2968481183,
-        "Bias Frequency": 100,
-        "Mean BLEU Score": 2.24303365
+        "Document Name": "Fortschreibung_KI-Strategie_engl",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 7.6886909587,
+        "Bias Frequency": 42,
+        "Mean Similarity Score": 0.3479673493,
+        "Mean Normalized TF-IDF": 0.5260955398
     },
     {
         "Country": "DNK",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Confirmation bias",
-        "Prevalence Score": 14.5907027721,
-        "Mean Similarity Score": 0.2947022617,
-        "Bias Frequency": 168,
-        "Mean BLEU Score": 2.6077690865
+        "Document Name": "Priority Areas",
+        "Most Prevalent Bias": "Popularity bias",
+        "Prevalence Score": 7.5656923093,
+        "Bias Frequency": 46,
+        "Mean Similarity Score": 0.3463952528,
+        "Mean Normalized TF-IDF": 0.4748089663
     },
     {
         "Country": "EGY",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Industry Sponsorship bias",
-        "Prevalence Score": 16.4371029362,
-        "Mean Similarity Score": 0.2845539451,
-        "Bias Frequency": 203,
-        "Mean BLEU Score": 2.0382381197
+        "Document Name": "Egypt's National AI Strategy",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 7.174935669,
+        "Bias Frequency": 80,
+        "Mean Similarity Score": 0.3189117118,
+        "Mean Normalized TF-IDF": 0.2812273509
+    },
+    {
+        "Country": "ESP",
+        "Document Name": "Spain's National AI strategy",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 42.5435538533,
+        "Bias Frequency": 217,
+        "Mean Similarity Score": 0.3788095179,
+        "Mean Normalized TF-IDF": 0.5175509968
+    },
+    {
+        "Country": "EU",
+        "Document Name": "Assessment of  current initiatives of  the European Commission on  better regulation",
+        "Most Prevalent Bias": "Review biases",
+        "Prevalence Score": 7.9946551081,
+        "Bias Frequency": 33,
+        "Mean Similarity Score": 0.3790911594,
+        "Mean Normalized TF-IDF": 0.6390607378
+    },
+    {
+        "Country": "EU",
+        "Document Name": "Common Regulatory Capacity for AI",
+        "Most Prevalent Bias": "Review biases",
+        "Prevalence Score": 21.1815671983,
+        "Bias Frequency": 96,
+        "Mean Similarity Score": 0.3740017691,
+        "Mean Normalized TF-IDF": 0.5899472763
+    },
+    {
+        "Country": "FRA",
+        "Document Name": "Good Practice Recommendations to Integrate Ethics in the Development of AI Solutions in Healthcare",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 12.0244395627,
+        "Bias Frequency": 66,
+        "Mean Similarity Score": 0.4219400492,
+        "Mean Normalized TF-IDF": 0.4317875929
+    },
+    {
+        "Country": "GBR",
+        "Document Name": "AI Ecosystem Survey",
+        "Most Prevalent Bias": "Review biases",
+        "Prevalence Score": 5.6212536287,
+        "Bias Frequency": 23,
+        "Mean Similarity Score": 0.3653116217,
+        "Mean Normalized TF-IDF": 0.6690242443
+    },
+    {
+        "Country": "GRC",
+        "Document Name": "Progress report on the National AI Strategy for Greece",
+        "Most Prevalent Bias": "Diagnostic access bias",
+        "Prevalence Score": 0.5484553982,
+        "Bias Frequency": 4,
+        "Mean Similarity Score": 0.2977962125,
+        "Mean Normalized TF-IDF": 0.4604284534
+    },
+    {
+        "Country": "IRL",
+        "Document Name": "National Landcover mapping project",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 1.1504761897,
+        "Bias Frequency": 8,
+        "Mean Similarity Score": 0.3167471775,
+        "Mean Normalized TF-IDF": 0.4540199059
+    },
+    {
+        "Country": "IRL",
+        "Document Name": "Public Consultation for the National AI Strategy for Ireland",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 5.7460677443,
+        "Bias Frequency": 29,
+        "Mean Similarity Score": 0.3818162828,
+        "Mean Normalized TF-IDF": 0.5189413757
+    },
+    {
+        "Country": "IRL",
+        "Document Name": "Satellite Platform for Ireland (SP\u00c9ir)",
+        "Most Prevalent Bias": "Reporting biases",
+        "Prevalence Score": 0.5553886336,
+        "Bias Frequency": 2,
+        "Mean Similarity Score": 0.3872411,
+        "Mean Normalized TF-IDF": 0.7171096167
+    },
+    {
+        "Country": "ISR",
+        "Document Name": "National Initiative for Secured Intelligent Systems",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 23.6228976014,
+        "Bias Frequency": 132,
+        "Mean Similarity Score": 0.3124646467,
+        "Mean Normalized TF-IDF": 0.5727411001
     },
     {
         "Country": "ITA",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Language bias",
-        "Prevalence Score": 4.978979066,
-        "Mean Similarity Score": 0.261161238,
-        "Bias Frequency": 73,
-        "Mean BLEU Score": 0.6988184044
+        "Document Name": "Artificial Intelligence Strategic Programme (2022-2024)",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 6.1924988369,
+        "Bias Frequency": 37,
+        "Mean Similarity Score": 0.3317354262,
+        "Mean Normalized TF-IDF": 0.504512995
+    },
+    {
+        "Country": "JPN",
+        "Document Name": "Governance Innovation ver.2 - A Guide to Designing and Implementing Agile Governance",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 31.2781778184,
+        "Bias Frequency": 168,
+        "Mean Similarity Score": 0.3564272238,
+        "Mean Normalized TF-IDF": 0.5223496339
+    },
+    {
+        "Country": "JPN",
+        "Document Name": "Governing Innovation",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 13.7434198179,
+        "Bias Frequency": 81,
+        "Mean Similarity Score": 0.3569921243,
+        "Mean Normalized TF-IDF": 0.4752817725
     },
     {
         "Country": "MUS",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Industry Sponsorship bias",
-        "Prevalence Score": 12.5528814793,
-        "Mean Similarity Score": 0.2766621709,
+        "Document Name": "Mauritius AI Strategy",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 8.6523358571,
+        "Bias Frequency": 55,
+        "Mean Similarity Score": 0.3401107005,
+        "Mean Normalized TF-IDF": 0.4625411584
+    },
+    {
+        "Country": "NLD",
+        "Document Name": "AI Research Agenda for the Netherlands",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 16.24762263,
+        "Bias Frequency": 83,
+        "Mean Similarity Score": 0.4006138775,
+        "Mean Normalized TF-IDF": 0.4886363167
+    },
+    {
+        "Country": "NLD",
+        "Document Name": "Ai for the Netherlands Report",
+        "Most Prevalent Bias": "Wrong sample size bias",
+        "Prevalence Score": 3.5998851311,
+        "Bias Frequency": 55,
+        "Mean Similarity Score": 0.3467495915,
+        "Mean Normalized TF-IDF": 0.1887600117
+    },
+    {
+        "Country": "POL",
+        "Document Name": "Amendments to the Polish Labour Code",
+        "Most Prevalent Bias": "Adherence bias",
+        "Prevalence Score": 23.2128639375,
         "Bias Frequency": 164,
-        "Mean BLEU Score": 1.7360469072
+        "Mean Similarity Score": 0.3597088836,
+        "Mean Normalized TF-IDF": 0.393490013
+    },
+    {
+        "Country": "PRT",
+        "Document Name": "Portugal's National Strategy for Artificial Intelligence",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 4.1906603248,
+        "Bias Frequency": 25,
+        "Mean Similarity Score": 0.3505751136,
+        "Mean Normalized TF-IDF": 0.4781469263
+    },
+    {
+        "Country": "SRB",
+        "Document Name": "AI Council",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 11.8685420459,
+        "Bias Frequency": 66,
+        "Mean Similarity Score": 0.3568373485,
+        "Mean Normalized TF-IDF": 0.5039449917
+    },
+    {
+        "Country": "SWE",
+        "Document Name": "Government Assignment on SMEs and Data as a Strategic Resource",
+        "Most Prevalent Bias": "Reporting biases",
+        "Prevalence Score": 1.9391862741,
+        "Bias Frequency": 27,
+        "Mean Similarity Score": 0.3651610811,
+        "Mean Normalized TF-IDF": 0.1966850181
+    },
+    {
+        "Country": "THA",
+        "Document Name": "12th National Economic and Social Development Plan",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 38.8222359448,
+        "Bias Frequency": 225,
+        "Mean Similarity Score": 0.3234951835,
+        "Mean Normalized TF-IDF": 0.5333719934
+    },
+    {
+        "Country": "THA",
+        "Document Name": "Ministry of Digital Economy and Society",
+        "Most Prevalent Bias": "Informed presence bias",
+        "Prevalence Score": 1.4620301474,
+        "Bias Frequency": 12,
+        "Mean Similarity Score": 0.2383234592,
+        "Mean Normalized TF-IDF": 0.5112205322
     },
     {
         "Country": "UAE",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Industry Sponsorship bias",
-        "Prevalence Score": 8.6305653676,
-        "Mean Similarity Score": 0.2739496231,
-        "Bias Frequency": 115,
-        "Mean BLEU Score": 2.0739063124
+        "Document Name": "UAE National Strategy for AI 2031",
+        "Most Prevalent Bias": "Popularity bias",
+        "Prevalence Score": 2.8394706157,
+        "Bias Frequency": 18,
+        "Mean Similarity Score": 0.3485796272,
+        "Mean Normalized TF-IDF": 0.4525461479
+    },
+    {
+        "Country": "URY",
+        "Document Name": "Predpol",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 21.0592680804,
+        "Bias Frequency": 121,
+        "Mean Similarity Score": 0.3368198591,
+        "Mean Normalized TF-IDF": 0.5167258793
     },
     {
         "Country": "USA",
-        "Document_nr": 1,
-        "Most Prevalent Bias": "Industry Sponsorship bias",
-        "Prevalence Score": 9.4733452946,
-        "Mean Similarity Score": 0.2989501357,
-        "Bias Frequency": 106,
-        "Mean BLEU Score": 2.1120362756
+        "Document Name": "2020 Federal Data Strategy Action Plan",
+        "Most Prevalent Bias": "Review biases",
+        "Prevalence Score": 8.1409153993,
+        "Bias Frequency": 55,
+        "Mean Similarity Score": 0.3414824924,
+        "Mean Normalized TF-IDF": 0.4334530962
     },
     {
         "Country": "USA",
-        "Document_nr": 2,
-        "Most Prevalent Bias": "Confirmation bias",
-        "Prevalence Score": 0.4346623644,
-        "Mean Similarity Score": 0.2948431373,
-        "Bias Frequency": 5,
-        "Mean BLEU Score": 1.2374582985
+        "Document Name": "AI and Society",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 0.8462513798,
+        "Bias Frequency": 4,
+        "Mean Similarity Score": 0.44485662,
+        "Mean Normalized TF-IDF": 0.4755753549
     },
     {
         "Country": "USA",
-        "Document_nr": 3,
-        "Most Prevalent Bias": "Information bias",
-        "Prevalence Score": 0.5367364287,
-        "Mean Similarity Score": 0.5180426836,
+        "Document Name": "Fairness, Ethics, Accountability, and Transparency",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 0.6868950747,
         "Bias Frequency": 2,
-        "Mean BLEU Score": 2.2016138625
+        "Mean Similarity Score": 0.475530385,
+        "Mean Normalized TF-IDF": 0.7222409928
     },
     {
         "Country": "USA",
-        "Document_nr": 4,
-        "Most Prevalent Bias": "Industry Sponsorship bias",
-        "Prevalence Score": 18.5866778567,
-        "Mean Similarity Score": 0.339772284,
-        "Bias Frequency": 161,
-        "Mean BLEU Score": 1.899142544
+        "Document Name": "Federal 5-Year STEM Education Strategic Plan",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 6.6735411742,
+        "Bias Frequency": 43,
+        "Mean Similarity Score": 0.372372944,
+        "Mean Normalized TF-IDF": 0.4167827832
     },
     {
         "Country": "USA",
-        "Document_nr": 5,
-        "Most Prevalent Bias": "Reporting biases",
-        "Prevalence Score": 3.0385285616,
-        "Mean Similarity Score": 0.3486275077,
-        "Bias Frequency": 25,
-        "Mean BLEU Score": 1.2173349416
+        "Document Name": "National AI R&D Strategic Plan",
+        "Most Prevalent Bias": "Racial bias",
+        "Prevalence Score": 7.4571884472,
+        "Bias Frequency": 59,
+        "Mean Similarity Score": 0.3534671161,
+        "Mean Normalized TF-IDF": 0.3575807162
+    },
+    {
+        "Country": "USA",
+        "Document Name": "National Institute of Standards and Technology Principles for Explainable AI",
+        "Most Prevalent Bias": "Spin bias",
+        "Prevalence Score": 7.7077625815,
+        "Bias Frequency": 41,
+        "Mean Similarity Score": 0.3668309429,
+        "Mean Normalized TF-IDF": 0.5124818746
+    },
+    {
+        "Country": "USA",
+        "Document Name": "Plan for Federal Engagement in Developing Technical Standards and Related Tools",
+        "Most Prevalent Bias": "Review biases",
+        "Prevalence Score": 8.5477426209,
+        "Bias Frequency": 44,
+        "Mean Similarity Score": 0.3459465743,
+        "Mean Normalized TF-IDF": 0.5615516735
+    },
+    {
+        "Country": "USA",
+        "Document Name": "U.S. Air Force AI Annex to the Department of Defense AI Strategy",
+        "Most Prevalent Bias": "Hot stuff bias",
+        "Prevalence Score": 0.9648183498,
+        "Bias Frequency": 6,
+        "Mean Similarity Score": 0.29997067,
+        "Mean Normalized TF-IDF": 0.5360626034
     }
 ]
